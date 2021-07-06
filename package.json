@@ -1,0 +1,30 @@
+{
+  "name": "hubot-irc-better",
+  "version": "1.0.0",
+  "author": "Injamul Mohammad Mollah <mrinjamul@gmail.com>",
+  "description": "IRC adapter better for Hubot 3",
+  "keywords": [
+    "hubot",
+    "hubot-script",
+    "hubot-adapter",
+    "hubot-irc-adapter",
+    "irc"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinjamul/hubot-irc-better.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mrinjamul/hubot-irc-better/issues"
+  },
+  "main": "./src/irc.coffee",
+  "engine": "node > 0.6.0",
+  "scripts": {},
+  "dependencies": {
+    "irc": "^0.5.0",
+    "log": "1.4.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/mrinjamul/hubot-irc-better#readme"
+}
