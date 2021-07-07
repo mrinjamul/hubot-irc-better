@@ -1,6 +1,6 @@
 {
   "name": "hubot-irc-better",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Injamul Mohammad Mollah <mrinjamul@gmail.com>",
   "description": "IRC adapter better for Hubot 3",
   "keywords": [
